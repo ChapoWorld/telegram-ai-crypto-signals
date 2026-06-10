@@ -1,5 +1,3 @@
-# telegram-ai-crypto-signals
-Automated Telegram Crypto Signals Bot driven by Claude 3.5.
 # 📱 Telegram AI Crypto Signals Bot
 
 Forward messages from VIP premium crypto groups to this bot. Claude AI will parse the unstructured text, extract Entry, Take Profit (TP), and Stop Loss (SL) data, and execute trades or format beautiful signals for your own community.
